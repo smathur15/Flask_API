@@ -1,0 +1,83 @@
+db.person.insertMany(
+	[
+		{
+			"first_name":"Mukesh",
+			"last_first_name":"Ambani",
+			"country":"India",
+			"company":"Reliance Industries Ltd",
+			"headquarters":"Mumbai",
+			"category":"Oil Refinery"
+		},
+		{
+			"first_name":"Bill",
+			"last_first_name":"Gates",
+			"country":"USA",
+			"company":"Bill Gates Foundation",
+			"headquarters":"New York"
+		},
+		{
+			"first_name":"Sundar",
+			"last_first_name":"Pichai",
+			"country":"USA",
+			"company":"Google",
+			"headquarters":"Washington",
+			"category":"Software"
+		},
+		{
+			"first_name":"Satya",
+			"last_first_name":"Nadella",
+			"country":"USA",
+			"company":"Microsoft",
+			"headquarters":"Manhattan",
+			"category":"software"
+		},
+		{
+			"first_name":"Jack",
+			"last_first_name":"Maa",
+			"country":"China",
+			"company":"Alibaba",
+			"headquarters":"Shanghai",
+			"category":"E-commerce"
+		},
+		{
+			"first_name":"Jeff",
+			"last_first_name":"Bezos",
+			"country":"USA",
+			"company":"Amazon",
+			"headquarters":"New York",
+			"category":"E-commerce"
+		},
+		{
+			"first_name":"Sam",
+			"last_first_name":"Walton",
+			"country":"USA",
+			"company":"Walmart Inc",
+			"headquarters":"Arkansas",
+			"category":"Retail"
+		},
+		{
+			"first_name":"Henry",
+			"last_first_name":"Ford",
+			"country":"USA",
+			"company":"Ford Motors",
+			"headquarters":"Michigan",
+			"category":"Automobile"
+		},
+		{
+			"first_name":"William",
+			"last_first_name":"Boeing",
+			"country":"USA",
+			"company":"Boeing",
+			"headquarters":"Chicago",
+			"category":"Automobile"
+		},
+		{
+			"first_name":"Lee",
+			"last_first_name":"Byung-chul",
+			"country":"South Korea",
+			"company":"Samsung",
+			"headquarters":"Seoul",
+			"category":"Consumer Goods"
+		}
+	]
+)
